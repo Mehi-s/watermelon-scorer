@@ -1,9 +1,3 @@
-Great and funny idea! Your project **"watermelon-scorer"** has both practical value and a fun, viral potential. Here's how you can make it **clearer, more impressive**, and **more professional**—while keeping the humor.
-
----
-
-## 🔥 Improved Project Description (README Draft)
-
 ### 🥇 Watermelon Scorer – Know Before You Cut!
 
 A fun and practical machine learning project to **predict the inside color of a watermelon** (red or white) using only an **image of the uncut watermelon** 🍉✨.
